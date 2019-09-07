@@ -52,11 +52,11 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : DICKY FEBRIAN"
-echo $i  "WA       : 085707706430"
-echo $i  "YOUTUBE  : DICKY GT"
-echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
-echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $i  "AUTHOR     : HAFIS VS"
+echo $i  "ACS CO     : 64479422689"
+echo $i  "USER NAME  : WHITE DEVIL"
+echo $i  "TOOLS      : INSTALLER (7 TOOLS)"
+echo $cy "━××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××━"
 echo
 echo
 echo "###DAFTAR TOOLS###"
@@ -152,6 +152,6 @@ sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
 echo $i"WhatsApp :"$i" 085707706430"
-echo $bi"Facebook :"$i" Dicky Febrian"
+echo $bi"Facebook :"$i" HAFIS VS"
 exit
 fi
